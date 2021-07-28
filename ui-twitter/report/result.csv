@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1627476459051,1678,twitter_page,200,OK,Thread Group 1-1,text,true,,73766,109,2,2,https://twitter.com/,1227,0,894
+1627476459931,1442,twitter_page,200,OK,Thread Group 1-2,text,true,,73766,109,2,2,https://twitter.com/,917,0,497
+1627476460928,1438,twitter_page,200,OK,Thread Group 1-3,text,true,,73993,109,2,2,https://twitter.com/,915,0,516
+1627476461940,1406,twitter_page,200,OK,Thread Group 1-4,text,true,,73766,109,2,2,https://twitter.com/,913,0,559
+1627476462919,1139,twitter_page,200,OK,Thread Group 1-5,text,true,,73766,109,1,1,https://twitter.com/,680,0,336
