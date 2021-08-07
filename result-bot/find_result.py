@@ -68,7 +68,6 @@ for x in results:
 
 df = pd.DataFrame(details)
 df.to_csv("results.csv", index=False)
-df.to_html("results.html")
 
 print()
 print("========================================")
